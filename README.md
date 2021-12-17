@@ -1,4 +1,4 @@
-# Jack of All Meals
+# Anything to Eat?
 Can't decide what to eat? This random meal idea generator will get you cooking in no time. 
 
 ## Description
