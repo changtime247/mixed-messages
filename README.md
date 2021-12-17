@@ -1,11 +1,12 @@
-# Lunar Calendar Zodiac Animals: Food Where? 
+# Jack of All Meals
+Can't decide what to eat? This random meal idea generator will get you cooking in no time. 
 
 ## Description
-*What* and *where* do zodiac animals eat when they get together?
+**Must use ingredients returned.** *Bonus points if incorporated as the heroes/heroines of the dish.*
 
 ## How to run script
-Change into directory (or "*cd*") from terminal and type:
+From terminal, type:
 > node script.js
-> 
+
 ## Have a question? <a name="contact"></a>
 [Github Account](https://github.com/moomoonnow)
